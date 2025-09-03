@@ -11,14 +11,10 @@
   <img src="Screenshots/4.png" width="200" />
 </p>
 
-## ✨ Features
+## Features
 
-### 🎯 **Smart Onboarding**
-- Beautiful first-time experience with step-by-step guidance
-- Professional profile creation with secure API key validation
-- Smart navigation that remembers your preferences
 
-### 🤖 **AI Model Management**
+### **AI Model Management**
 - **100+ Free Models**: Automatically discovers and lists all free OpenRouter models
 - **Default Model Persistence**: Selected model is saved and remembered across sessions
 - **Model Information Dialogs**: "Know the Model" feature shows capabilities for Claude, GPT, Llama, Gemma, and more
@@ -32,18 +28,11 @@
 - **Navigation Drawer**: Swipe access to chat history and settings
 - **Real-time Responses**: Smooth, responsive chat experience with loading indicators
 
-### ⚙️ **Advanced Settings**
-- **Profile Management**: Edit name and API key anytime with secure storage
-- **Default Model Management**: View current model and click to change
-- **Settings Validation**: Real-time API key validation and error handling
-- **Beautiful Attribution**: Made with ❤️ by Abu Saadat
-
-### 🔒 **Security & Privacy**
+### **Security & Privacy**
 - **Secure API Key Storage**: Encrypted local storage using DataStore
-- **Password Protection**: API keys are hidden by default with toggle visibility
 - **Input Validation**: Comprehensive validation and error handling
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose with Material Design 3
@@ -53,7 +42,7 @@
 - **Architecture**: MVVM with StateFlow and Compose State
 - **Threading**: Coroutines with proper Dispatchers.IO for network calls
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Android Studio Arctic Fox or later
@@ -71,22 +60,10 @@
 4. Get your free OpenRouter API key from [openrouter.ai](https://openrouter.ai)
 5. Follow the in-app setup process
 
-## 🎨 Key Highlights
-
-- **🔥 100+ AI Models**: Access to Claude, GPT, Llama, Gemma, and many more
-- **🎨 Beautiful UI**: Material Design 3 with smooth animations
-- **💾 Smart Persistence**: Chat history and settings automatically saved
-- **📱 Mobile Optimized**: Responsive design for all Android devices
-- **🔒 Secure**: Local storage with encrypted API key management
-- **🚀 Fast**: Efficient networking with proper error handling
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is open source. Made with ❤️ by [Abu Saadat](https://github.com/SAADAT-Abu).
 
 ## 🔗 Links
 
